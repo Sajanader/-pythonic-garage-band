@@ -5,3 +5,6 @@
 * a band name  
 * members 
 * return a list whith bands information and a string for solo play.
+
+### The link of the repo:
+[link](https://github.com/Sajanader/pythonic-garage-band/)
